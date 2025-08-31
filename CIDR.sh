@@ -19,7 +19,7 @@
 # Run the script with an IP or CIDR block
 # ./CIDR.sh <IP/CIDR>
 
-# Scipt Goes Below :
+# Script Goes Below :
 
 
 #!/bin/bash
